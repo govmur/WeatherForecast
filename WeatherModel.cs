@@ -1,6 +1,6 @@
 namespace WeatherForecast
 {
-    public class WeatherForecast
+    public class WeatherModel
     {
         public DateTime Date { get; set; }
 
