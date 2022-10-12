@@ -8,7 +8,7 @@ namespace WeatherForecast.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Jan", "Feb", "Mar" /*, "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"*/
+        "Cool", "Mild", "Warm" /*, "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"*/
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
